@@ -106190,7 +106190,7 @@ jp(a,b){return this.a1c(0,b)},
 a1c(a,b){var s=0,r=A.N(t.Wd),q,p=this
 var $async$jp=A.J(function(c,d){if(c===1)return A.K(d,r)
 while(true)switch(s){case 0:s=3
-return A.D(A.b77(A.n0("http://3.109.82.3/api/v1"+b,0,null),p.b),$async$jp)
+return A.D(A.b77(A.n0("https://3.109.82.3/api/v1"+b,0,null),p.b),$async$jp)
 case 3:q=d
 s=1
 break
@@ -106200,7 +106200,7 @@ mL(a,b){return this.awU(a,b)},
 awU(a,b){var s=0,r=A.N(t.Wd),q,p=this
 var $async$mL=A.J(function(c,d){if(c===1)return A.K(d,r)
 while(true)switch(s){case 0:s=3
-return A.D(A.b7R(A.n0("http://3.109.82.3/api/v1"+a,0,null),B.av.KM(b,null),p.b),$async$mL)
+return A.D(A.b7R(A.n0("https://3.109.82.3/api/v1"+a,0,null),B.av.KM(b,null),p.b),$async$mL)
 case 3:q=d
 s=1
 break
