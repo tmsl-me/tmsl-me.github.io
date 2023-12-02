@@ -1,6 +1,6 @@
 {
-    "name": "tymeslice",
-    "short_name": "tymeslice",
+    "name": "ts_buyer",
+    "short_name": "ts_buyer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
